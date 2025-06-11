@@ -6,7 +6,7 @@ from PyPDF2 import PdfReader
 import re
 
 # ====  CREDENTIALS ====
-EMAIL = "chaitrapaladugula@gmail.com"
+EMAIL = "*************"
 PASSWORD = "*******"  # This is an App Password (for Gmail)
 IMAP_SERVER = "imap.gmail.com"
 DOWNLOAD_FOLDER = "downloads"
